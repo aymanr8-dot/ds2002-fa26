@@ -1,1 +1,8 @@
 # ds2002-fa26
+git clone https://github.com/<you>/ds2002-fa26.git
+cd ds2002-fa26
+mkdir -p notebooks/01-foundations
+mv ~/Downloads/2026_08_28___Environment_and_GitHub_Setup___Lab.ipynb notebooks/01-foundations/
+git add notebooks/01-foundations
+git commit -m "Lab 01: environment and GitHub setup"
+git push
